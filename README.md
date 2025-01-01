@@ -50,7 +50,7 @@ AI-Powered-Predictive-Maintenance/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/ravinalla1109/AI-Powered-Predictive-Maintenance
 cd AI-Powered-Predictive-Maintenance
 ```
 
